@@ -1,0 +1,19 @@
+{
+    "name": "ncuk/php-crul-operation",
+    "description": "Custom PHP Curl library for the Symfony framework",
+    "type": "library",
+	"license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ncuk\\PhpCrulOperation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prithabai",
+            "email": "prithabai.r@impelsys.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
